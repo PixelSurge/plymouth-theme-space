@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Space Plymouth
+Description=boot up progress bar plymouth teme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/space/assets
+ScriptFile=/usr/share/plymouth/themes/space/assets/space.script
