@@ -16,7 +16,7 @@ package() {
   cd "${srcdir}/space"
   _themedir="${pkgdir}/usr/share/plymouth/themes/$_themename"
 
-  for N in "${_themename}.plymouth" assets/*.png "assets/${_themename}.script"; do
+  for N in "${_themename}.plymouth" *.png; do
     install -Dm644 $N "${_themedir}/$N"
   done
 
