@@ -3,7 +3,7 @@
 pkgname=plymouth-theme-space
 _themename=space
 pkgver=1
-pkgrel=5
+pkgrel=6
 pkgdesc="A boot up plymouth progress bar space theme"
 arch=("x86_64")
 url="https://github.com/asterlinux/plymouth-theme"
