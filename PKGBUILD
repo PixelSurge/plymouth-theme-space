@@ -3,12 +3,12 @@
 pkgname=plymouth-theme-space
 _themename=space
 pkgver=1
-pkgrel=4
+pkgrel=5
 pkgdesc="A boot up plymouth progress bar space theme"
 arch=("x86_64")
 url="https://github.com/asterlinux/plymouth-theme"
 license=("MIT")
-depends=("plymouth")
+depends=("plymouth" "cantarell-fonts")
 makedepends=("git")
 source=("")
 md5sums=("SKIP")
