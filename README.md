@@ -9,3 +9,6 @@
 
 <p align="center">Plymouth theme</a>.
 </p>
+
+<p align="center">This is modified spinner theme</a>.
+</p>
